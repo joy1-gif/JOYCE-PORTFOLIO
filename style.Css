@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    color: green;
+    background-color: whitesmoke;
+    padding: 80px ;
+}
+
+.navbar-brand {
+    font-size: 2px;
+}
+
+.card {
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY -4px;
+    
+}
+
+footer {
+    font-size: 15px;
+}
